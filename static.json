@@ -1,0 +1,4 @@
+{
+  "root": "dist/flixd-frontend/",
+  "clean_urls": false
+}
